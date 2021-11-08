@@ -1,4 +1,4 @@
-"#SpaceInvaders" 
+"#SpaceInvaders" \
 Sam Derakhshandeh,\
 João Jubitana,\
 Nikay Klidas,\
@@ -19,6 +19,6 @@ Art assets en animaties maken - Nikay George\
 Particles maken -George\
 Game en level design -Nikay en George\
 Geluiden zoeken -Nikay\
-Engine integratie -Sam Joao
+Engine integratie -Sam en Joao
                     
 "# SpaceInvaders" 
