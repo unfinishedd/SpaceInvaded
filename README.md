@@ -1,5 +1,5 @@
 "#SpaceInvaders" \
-Sam Derakhshandeh,\
+Sam D,\
 João Jubitana,\
 Nikay Klidas,\
 George Fritz,
